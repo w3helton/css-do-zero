@@ -489,7 +489,7 @@ p::before {
 
 Todo elemento HTML é uma **caixa**.
 
-![images/box-model.png]
+![Box Model](images/box-model.png)
 ### Componentes
 
 **content** → conteúdo (texto, imagem)  
