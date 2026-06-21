@@ -513,7 +513,6 @@ Todo elemento HTML é uma **caixa**.
 A largura total do elemento será: 300px (content) + 32px (padding left+right) + 2px (border left+right) = 334px. A margem é externa, não soma na largura total do elemento, mas afeta o espaçamento.
 
 ---
-<div class="page-break"></div>
 
 ## Box sizing: a propriedade que salva vidas
 
